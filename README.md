@@ -1,5 +1,7 @@
 # Local Legend App – Performance & Infrastructure Analysis
 
+<img src="resources/infographic.png" width="800" alt="Performance Analysis Infographic">
+
 ![Platform](https://img.shields.io/badge/Platform-Android-0D8F3C?logo=android&logoColor=lightgreen)
 ![Testing](https://img.shields.io/badge/Testing-Manual%20Analysis-9A3412)
 ![Solutions](https://img.shields.io/badge/Solutions-AWS-orange?logo=amazon-aws)
@@ -505,6 +507,16 @@ This analysis taught me:
 3. **Location is critical** - For a "local" app, wrong location data is a dealbreaker
 4. **Cloud solves problems** - AWS provides enterprise-grade reliability for small apps
 5. **Testing reveals truth** - Actual usage testing uncovers issues that specs don't show
+
+---
+
+## Presentation Format
+
+Want to share this analysis with your team? I've created a slide deck for easy presentation:
+
+**[ Download Presentation Slides (PDF)](assets/slides.pdf)**
+
+Perfect for team meetings, stakeholder reviews, or educational purposes.
 
 ---
 
