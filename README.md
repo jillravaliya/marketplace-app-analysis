@@ -56,8 +56,6 @@ Testing Method: Real-world usage simulation
 
 ---
 
-![App Details](screenshots/01-app-info.jpg)
-
 #### **Quick Facts:**
 
 - **Name** : Local Legend - Pride of Locals
